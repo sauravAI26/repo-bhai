@@ -1,0 +1,1 @@
+print("mahadev ki jai ho")
